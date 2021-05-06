@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StarterKotlin</string>
+    <string name="hi">Hi!</string>
 </resources>
